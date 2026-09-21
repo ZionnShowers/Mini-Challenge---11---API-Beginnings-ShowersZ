@@ -1,9 +1,3 @@
-//Zionn Showers
-//9-21-2026
-//Mini Challenge # 11 - API Beginnings
-//I basically looked back at the original code to see how I could input the same code but into an API format. I made the user input have the ability to enter their name, add two numbers together, and say the time they wake up.
-//Peer Review:
-//Review:
 using Microsoft.AspNetCore.Mvc;
 
 namespace Mini_Challenge___11___API_Beginnings.Controllers
