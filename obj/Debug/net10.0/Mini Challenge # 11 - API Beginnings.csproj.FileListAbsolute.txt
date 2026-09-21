@@ -1,0 +1,33 @@
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\appsettings.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\Mini Challenge # 11 - API Beginnings.staticwebassets.endpoints.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\Mini Challenge # 11 - API Beginnings.exe
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\Mini Challenge # 11 - API Beginnings.deps.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\Mini Challenge # 11 - API Beginnings.runtimeconfig.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\Mini Challenge # 11 - API Beginnings.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\Mini Challenge # 11 - API Beginnings.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.csproj.AssemblyReference.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.AssemblyInfoInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.AssemblyInfo.cs
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.csproj.CoreCompileInputs.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\scopedcss\bundle\Mini Challenge # 11 - API Beginnings.styles.css
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Cha.C94B82C6.Up2Date
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\refint\Mini Challenge # 11 - API Beginnings.dll
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.pdb
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\Mini Challenge # 11 - API Beginnings.genruntimeconfig.cache
+C:\Users\zionn\Desktop\CodeStack Academy Combine\A Homework\Mini Challenge # 11 - API Beginnings\obj\Debug\net10.0\ref\Mini Challenge # 11 - API Beginnings.dll

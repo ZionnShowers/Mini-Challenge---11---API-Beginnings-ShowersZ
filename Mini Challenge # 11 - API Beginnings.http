@@ -1,0 +1,6 @@
+@Mini_Challenge___11___API_Beginnings_HostAddress = http://localhost:5195
+
+GET {{Mini_Challenge___11___API_Beginnings_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
