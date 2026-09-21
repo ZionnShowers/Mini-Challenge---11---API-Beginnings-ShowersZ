@@ -9,9 +9,10 @@ namespace Mini_Challenge___11___API_Beginnings.Controllers
     {
         [HttpGet]//Hello
         [Route("enterfirstname/{firstname}/enterlastname/{lastname}")]
-        public string Name(string firstname, string lastname)
+        // public string Name(string firstname, string lastname)
+        public ActionResult<string> Name(string firstname, string lastname)
         {
-            return $"Hello {firstname} {lastname}!";
+            return Ok($"Hello {firstname} {lastname}!");
         }
 
         [HttpGet]//Adding 2 numbers
@@ -33,9 +34,10 @@ namespace Mini_Challenge___11___API_Beginnings.Controllers
 
         [HttpGet]//Time
         [Route("giveyourname/{name}/awaketime/{time}")]
-        public string Time(string name, string time)
+        // public string Time(string name, string time)
+        public ActionResult<string> Time(string name, string time)
         {
-            return $"So your name is {name} and you woke up at {time}.";
+            return Ok($"So your name is {name} and you woke up at {time}.");
         }
 
 
@@ -66,9 +68,10 @@ namespace Mini_Challenge___11___API_Beginnings.Controllers
             }
         }
         [HttpGet("madlib/{word1}/{word2}/{word3}/{word4}/{word5}/{word6}/{word7}/{word8}/{word9}/{word10}")]//MadLib
-        public string MadLib(string word1, string word2, string word3, string word4, string word5, string word6, string word7, string word8, string word9, string word10)
+        // public string MadLib(string word1, string word2, string word3, string word4, string word5, string word6, string word7, string word8, string word9, string word10)
+        public ActionResult<string> MadLib(string word1, string word2, string word3, string word4, string word5, string word6, string word7, string word8, string word9, string word10)
         {  
-        return $"Bats are so cool! They are {word1}, {word2} animals which have wings. They like to fly around at {word3} which makes some people scared of them. But bats are {word4}, and they don't want to hurt people. I have a pet bat that lives in {word5}. I like to feed him {word6} and {word7}. He likes to {word8}. I am his favorite person, but he also likes {word9}. I want to convince my parents to get me {word10} more bats.";
+        return Ok($"Bats are so cool! They are {word1}, {word2} animals which have wings. They like to fly around at {word3} which makes some people scared of them. But bats are {word4}, and they don't want to hurt people. I have a pet bat that lives in {word5}. I like to feed him {word6} and {word7}. He likes to {word8}. I am his favorite person, but he also likes {word9}. I want to convince my parents to get me {word10} more bats.");
         }
     }
 }
